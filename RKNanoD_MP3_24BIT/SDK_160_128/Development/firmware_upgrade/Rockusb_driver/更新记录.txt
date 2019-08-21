@@ -1,0 +1,53 @@
+Ver:Rockusb Driver v2.1
+time:2012.08.27
+Content:
+1.增加RK30B芯片支持
+
+Ver:Rockusb Driver v3.0
+time:2012.11.12
+Content:
+1.设备描述统一使用Rockusb Device
+2.增加RK310B支持
+
+Ver:Rockusb Driver v3.1
+time:2013.02.22
+Content:
+1.增加bus reset支持
+Ver:Rockusb Driver v3.3
+time:2013.02.27
+Content:
+1.解决OnstartDevice时,在某些电脑上的延时过长问题
+Ver:Rockusb Driver v3.4
+time:2013.03.06
+Content:
+1.处理一些蓝屏的风险
+Ver:Rockusb Driver v3.5
+time:2013.03.12
+Content:
+1.处理异常情况下出现的设备名重复问题
+
+Ver:Rockusb Driver v3.6
+time:2013.07.30
+Content:
+1.增加RK3028A(pid=0x292C)支持
+
+Ver:Rockusb Driver v3.7
+time:2013.09.09
+Content:
+1.解决win8系统连接usb3.0控制器不识别问题
+Ver:Rockusb Driver v3.8
+time:2014.03.14
+Content:
+1.增加RK32,Audi,Audi-s芯片支持
+Ver:Rockusb Driver v3.9
+time:2014.03.21
+Content:
+1.修正cat文件校验失败问题
+Ver:Rockusb Driver v4.0
+time:2014.05.08
+Content:
+1.解决获取配置描述符问题
+Ver:Rockusb Driver v4.1
+time:2014.06.13
+Content:
+1.增加ResetPipe功能

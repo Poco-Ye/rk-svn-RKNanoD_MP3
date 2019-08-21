@@ -1,0 +1,51 @@
+END-USER LICENSE AGREEMENT FOR SONY SOFTWARE
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING AGREEMENT BEFORE USING THIS SOFTWARE.  USING THIS SOFTWARE INDICATES YOUR ACCEPTANCE OF THE AGREEMENT.  
+
+SONY SOFTWARE LICENSE 
+The SONY SOFTWARE is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.  The SONY SOFTWARE is licensed, not sold.
+
+GRANT OF LICENSE.  This License grants you the following right:
+Software.  You may use one copy of the SONY SOFTWARE on a single designated computer ("COMPUTER").
+Storage/Network Use. You may not use the SONY SOFTWARE over an internal network or distribute the SONY SOFTWARE to other computers over an internal network.
+Back-up Copy.  You may make one back-up copy of SONY SOFTWARE solely for archival purposes.
+
+DESCRIPTION OF REQUIREMENTS, RESTRICTIONS, RIGHTS AND LIMITATIONS
+Limitation on Reverse Engineering, Decompilation and Disassembly.  You may not modify, reverse engineer, decompile, or disassemble the SONY SOFTWARE in whole or in part.  
+Separation of Components.  The SONY SOFTWARE is licensed as a single product.  Its component parts may not be separated for use on more than one computer.
+Single COMPUTER.  The SONY SOFTWARE may only be used with a single COMPUTER.
+Rental.  You may not rent or lease the SONY SOFTWARE.
+Software Transfer.  You may permanently transfer all of your rights under this EULA only as part of a sale or transfer of SONY SOFTWARE, provided you retain no copies, transfer all of the SONY SOFTWARE (including all copies, component parts, the media and printed materials, all versions and any upgrades of the SONY SOFTWARE and this EULA), and the recipient agrees to the terms of this EULA .
+Termination.  Without prejudice to any other rights, SONY may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SONY SOFTWARE and all of its component parts. 
+Confidentiality.  You agree to keep information contained in SONY SOFTWARE which is not publicly known confidential to yourself, and not to disclose such information to others without SONY's prior written approval.
+
+COPYRIGHT
+All title and copyright in and to the SONY SOFTWARE (including but limited to any images, photographs, animation, video, audio, music, text and "applets", incorporated into the SONY SOFTWARE), and any copies of the SONY SOFTWARE, are owned by SONY or its suppliers.  All rights not specifically granted under this EULA are reserved by SONY.
+
+HIGH RISK ACTIVITIES
+The SONY SOFTWARE is not fault-tolerant and is not designed, manufactured or intended for use or resale as on-line control equipment in hazardous environments requiring fail-safe performance, such as in the operation of nuclear facilities, aircraft navigation or communication systems, air traffic control, direct life support machines, or weapons systems, in which the failure of the SONY SOFTWARE could lead to death, personal injury, or severe physical or environmental damage ("High Risk Activities").  SONY and its suppliers specifically disclaim any express or implied warranty of fitness for High Risk Activities.
+
+U.S. GOVERNMENT RESTRICTED RIGHTS
+SONY SOFTWARE is provided with RESTRICTED RIGHTS.  Use, duplication, or disclosure by the United States Government is subject to restriction as set forth in subparagraph (c) (1) and (2) of the Commercial Computer Software-Restricted Rights at 48 CFR 52.227-19, as applicable.  Manufacturer is Sony Electronics Inc., One Sony Drive, Park Ridge, New Jersey 07656.
+
+LIMITED WARRANTY
+LIMITED WARRANTY ON CD-ROM MEDIA.  SONY warrants that for a period of ninety (90) days from the date of its delivery to you, if applicable, the CD-ROM media on which the SONY SOFTWARE is furnished to you will be free from defects in materials and workmanship under normal use.  This limited warranty extends only to you as the original licensee.  SONY's entire liability and your exclusive remedy will be replacement of the CD-ROM media not meeting SONY's limited warranty and which is returned to SONY with proof of purchase in the form of a bill of sale (which is evidence that the CD-ROM media is within the warranty period).  SONY will have no responsibility to replace a disk damaged by accident, abuse or misapplication. ANY IMPLIED WARRANTIES ON THE CD-ROM MEDIA, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ARE LIMITED IN DURATION TO NINETY (90) DAYS FROM THE DATE OF DELIVERY.  SAME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIE!
+D WARRANTY LASTS, SO THESE LIMITATIONS MAY NOT APPLY TO YOU.  THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE.  
+
+EXCLUSION OF WARRANTY ON SONY SOFTWARE
+You expressly acknowledge and agree that use of the SONY SOFTWARE is at your sole risk.  The SONY SOFTWARE is provided "AS IS" and without warranty of any kind and SONY and SONY's licensors (hereinafter, SONY and SONY's licensor's shall be collectively referred to as "SONY") EXPRESSLY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  SONY DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SONY SOFTWARE WILL MEET YOUR REQUIREMENTS, OR THAT THE OPERATION OF THE SONY SOFTWARE WILL BE CORRECTED.  FURTHERMORE, SONY DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE SONY SOFTWARE IN TERMS OF ITS CORRECTNESS, ACCURACY, RELIABILITY, OR OTHERWISE.  NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SONY OR A SONY AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY.  SHOULD THE SONY SOFTWA!
+RE PROVE DEFECTIVE YOU (AND NOT SONY OR A SONY AUTHORIZED REPRESENTATIVE) ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+
+LIMITATION OF LIABILITY
+HEREINAFTER, SONY AND SONY'S LICENSOR'S SHALL BE COLLECTIVELY REFERRED TO AS "SONY", SONY SHALL NOT BE LIABLE FOR ANY INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR BREACH OF ANY EXPRESS OR IMPLIED WARRANTY, BREACH OF CONTRACT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER LEGAL THEORY RELATED TO THIS PRODUCT.  SUCH DAMAGES INCLUDE, BUT ARE NOT LIMITED TO, LOSS OF PROFITS, LOSS OF REVENUE, LOSS OF DATA, LOSS OF USE OF THE PRODUCT OR ANY ASSOCIATED HARDWARE, DOWN TIME AND USER'S TIME, EVEN IF SONY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  IN ANY CASE, SONY'S ENTIRE LIABILITY UNDER ANY PROVISION OF THIS EULA SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID ALLOCABLE TO THE ASSOCIATED HARDWARE.  SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE EXCLUSION OR LIMITATION MAY NOT APPLY TO YOU.
+
+SEVERABILITY
+If any part of this EULA is held invalid or unenforceable, the other parts will remain valid.
+
+APPLICABLE LAW
+This EULA shall be governed by the local law of the State of California, USA.
+
+Should you have any questions concerning this EULA or this limited warranty, you may contact SONY by writing to SONY at Sony Technical Response Center, 12451 Gateway Boulevard, Fort Myers, Florida 33913.
+
+
+

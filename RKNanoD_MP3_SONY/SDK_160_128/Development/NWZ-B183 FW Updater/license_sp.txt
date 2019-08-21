@@ -1,0 +1,36 @@
+---------
+
+LICENCIA DEL SOFTWARE DE SONY
+El SOFTWARE DE SONY está protegido por leyes y por tratados internacionales en materia de copyright, así como por otras leyes y tratados sobre propiedad intelectual. El SOFTWARE DE SONY se proporciona bajo licencia, no se vende.
+
+CONCESIÓN DE LICENCIA. 
+Esta licencia le otorga los siguientes derechos:
+Software: Podrá instalar y utilizar una copia del SOFTWARE DE SONY en un único equipo.
+Almacenamiento y uso en red: No podrá utilizar el SOFTWARE DE SONY en una red interna ni distribuirlo a otros ordenadores de una red interna.
+
+DESCRIPCIÓN DE REQUISITOS, RESTRICCIONES, DERECHOS Y LIMITACIONES
+Limitación sobre ingeniería inversa, descompilación y desensamblaje: No podrá modificar, invertir, descompilar o desensamblar el SOFTWARE DE SONY en su totalidad o en parte. Separación de componentes: El SOFTWARE DE SONY se proporciona bajo licencia como un producto único. Los diferentes componentes no se pueden separar para utilizarlos en más de un ordenador.
+Un solo ORDENADOR: El SOFTWARE DE SONY sólo podrá utilizarse con un único ORDENADOR.
+Alquiler: No podrá alquilar ni arrendar el SOFTWARE DE SONY. 
+Transferencia de software: Podrá transferir de manera permanente todos los derechos en el presente EULA únicamente como parte de una venta o transferencia del SOFTWARE DE SONY, con la condición de que no conserve ninguna copia, de que transfiera el SOFTWARE DE SONY completo (incluyendo todas las copias, diferentes componentes, los soportes y todas las versiones, cualquier actualización y este EULA), y de que el destinatario acepte las condiciones del mismo.
+Cancelación: Sin perjuicio de cualquier otro derecho, SONY puede terminar este EULA si usted no cumple los términos y condiciones del mismo. En dicho caso, deberá destruir todas las copias del SOFTWARE DE SONY y todas las de sus diferentes componentes.
+Confidencialidad: Usted acepta mantener la confidencialidad de la información contenida en el SOFTWARE DE SONY que no sea conocida públicamente, y no desvelarla a terceros sin el previo consentimiento por escrito de SONY. 
+
+COPYRIGHT
+Todos los títulos y copyright contenidos y pertenecientes al SOFTWARE DE SONY (incluyendo pero no limitados a imágenes, fotografías, animación, vídeo, audio, música, texto y "applets", incorporados en el SOFTWARE DE SONY), y cualquier copia del mismo, son propiedad de SONY o de sus proveedores. Todos los derechos que no se otorgan específicamente bajo este EULA están reservados por SONY.
+
+EXCLUSIÓN DE GARANTÍA SOBRE EL SOFTWARE DE SONY
+Usted reconoce y acepta expresamente que el riesgo al utilizar el SOFTWARE DE SONY es únicamente suyo. El SOFTWARE DE SONY se proporciona "TAL COMO SE RECIBE" y sin garantía de ninguna clase, y SONY y los otorgantes de licencias de SONY (en lo sucesivo, denominados de manera conjunta "SONY") EXCLUYE CUALQUIER TIPO DE GARANTÍA, TANTO EXPRESA COMO IMPLÍCITA, INCLUYENDO, DE MANERA ENUNCIATIVA PERO NO LIMITATIVA, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y DE ADECUACIÓN A UN FIN PARTICULAR. SONY NO GARANTIZA QUE LAS FUNCIONES INCLUIDAS EN EL SOFTWARE DE SONY CUMPLAN LOS REQUISITOS NI QUE EL FUNCIONAMIENTO DEL MISMO SEA CORRECTO. ADEMÁS, SONY NO OFRECE NINGUNA GARANTÍA EN RELACIÓN CON EL USO O LOS RESULTADOS DEL USO DEL SOFTWARE DE SONY EN TÉRMINOS DE EXACTITUD, PRECISIÓN, RESPONSABILIDAD U OTROS. NINGUNA INFORMACIÓN O AVISO ESCRITO U ORAL ENTREGADO POR SONY O POR UN REPRESENTANTE AUTORIZADO DE SONY CONSTITUIRÁ GARANTÍA ALGUNA NI EXTENDERÁ DE CUALQUIER FORMA EL PROPÓSITO DE ESTA GARANTÍA. SI EL SOFTWARE DE SONY RESULTARA DEFECTUOSO, USTED (Y NO SONY O UN REPRESENTANTE AUTORIZADO DE SONY) ASUMIRÁ EL COSTE TOTAL DEL MANTENIMIENTO, REPARACIÓN O CORRECCIÓN. ALGUNAS JURISDICCIONES NO PERMITEN LA EXCLUSIÓN DE LAS GARANTÍAS IMPLÍCITAS. POR LO TANTO, PUEDE QUE LA EXCLUSIÓN ANTERIOR NO SEA APLICABLE EN SU CASO. 
+LIMITACIÓN DE RESPONSABILIDAD
+EN LO SUCESIVO, SONY Y LOS OTORGANTES DE LICENCIAS DE SONY SE DENOMINARÁN DE MANERA CONJUNTA "SONY", SONY EN NINGÚN CASO SE RESPONSABILIZARÁ DE CUALQUIER DAÑO INCIDENTAL O EMERGENTE CAUSADO POR EL INCUMPLIMIENTO DE CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, POR EL INCUMPLIMIENTO DEL CONTRATO, POR NEGLIGENCIA, ESTRICTA RESPONSABILIDAD O CUALQUIER OTRA TEORÍA LEGAL RELACIONADA CON ESTE PRODUCTO. DICHOS DAÑOS INCLUYEN, PERO NO SE LIMITAN A, PÉRDIDA DE BENEFICIOS, PÉRDIDA DE INGRESOS, PÉRDIDA DE DATOS, PÉRDIDA DE USO DEL PRODUCTO O CUALQUIER EQUIPO ASOCIADO, TIEMPO DE INACTIVIDAD Y TIEMPO DEL USUARIO, INCLUSO EN EL CASO DE QUE SONY HUBIESE SIDO AVISADO DE LA POSIBILIDAD DE DICHOS DAÑOS. EN CUALQUIER CASO LA RESPONSABILIDAD TOTAL DE SONY BAJO CUALQUIER PROVISIÓN DE ESTE EULA SE LIMITARÁ A LA CANTIDAD QUE SE HA PAGADO REALMENTE Y QUE SE PUEDE ASIGNAR AL SOFTWARE DE SONY. ALGUNAS JURISDICCIONES NO PERMITEN LA EXCLUSIÓN O LIMITACIÓN DE LOS DAÑOS EMERGENTES O INCIDENTALES. POR LO TANTO, PUEDE QUE LA EXCLUSIÓN O LIMITACIÓN ANTERIOR NO SEA APLICABLE EN SU CASO.
+PROTECCIÓN DE COPIAS
+Usted acepta cumplir todas las leyes de protección de copyright aplicables relativas a la utilización de los dispositivos de música digital de Sony y/o del SOFTWARE DE SONY. Además de los términos proporcionados en este EULA, Sony puede tomar las medidas apropiadas para proteger el copyright del contenido reproducido por el SOFTWARE DE SONY. 
+
+DISPOSICIONES GENERALES
+Si cualquier parte de este EULA se considera no válida o no se puede hacer cumplir, el resto seguirá teniendo validez hasta el límite permitido por la ley. La versión inglesa de este EULA debe ser la versión que se utilice al traducir o elaborar el mismo.
+
+LEGISLACIÓN VIGENTE
+Este EULA se rige por las leyes de Japón.
+
+Si tuviera alguna duda sobre este EULA o esta garantía limitada, puede ponerse en contacto escribiendo a SONY a la dirección indicada en la tarjeta de garantía.
+

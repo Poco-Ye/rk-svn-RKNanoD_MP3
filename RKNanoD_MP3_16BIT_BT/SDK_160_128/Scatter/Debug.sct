@@ -1,0 +1,141 @@
+;
+;*******************************************************************************
+;                   Copyright (c) 2008,ZhengYongzhi
+;                         All rights reserved.
+;
+; File Name£º   CortexM3.sct
+; 
+; Description:  
+;
+; History:      <author>          <time>        <version>       
+;             ZhengYongzhi      2008-8-13          1.0
+;    desc:    ORG.
+;*******************************************************************************
+;
+
+#define BOOT_ROM_BASE       0x00000000
+
+#define HRAM_CODE_BASE      0x01000000
+#define HRAM_CODE_SIZE	    0x00020000
+
+#define HRAM_DATA_BASE      0x01020000
+#define HRAM_DATA_SIZE      0x00040000
+
+
+#define LOADER_CODE_BASE    0x03048000
+#define LOADER_DATA_BASE    0x03084000
+
+
+#define SYS_CODE_BASE       0x03000000
+#define SYS_CODE_SIZE       0x00050000
+#define SYS_CODE_LIMIT      0x03050000
+
+#define SYS_DATA_BASE       0x03050000
+#define SYS_DATA_SIZE       0x00040000
+
+
+#define PMU_DATA_BASE       0x03090000
+#define PMU_DATA_SIZE       0x00001000
+#define PMU_CODE_BASE       0x03091000
+#define PMU_CODE_SIZE       0x0000E000
+
+
+LOAD_PMU_DATA_REGION PMU_DATA_BASE
+{
+    
+     PMU_DATA PMU_DATA_BASE 
+    {
+       *.o(pmu_vect, +First)
+    }    
+
+}
+
+LOAD_PMU_CODE_REGION PMU_CODE_BASE
+{
+     PMU_CODE PMU_CODE_BASE
+    {
+        
+        *(pmucode)
+        ;*(SysInitCode)
+	;*(SysInitData)
+	;*(SysInitBss)
+
+	;*(FlashInitData)
+        ;*(FatInitData)
+        ;*(SDInitData)
+        
+        ;*(FlashInitBss)
+        ;*(FatInitBss)
+        ;*(SDInitBss)
+    }	
+
+}
+
+
+
+LOAD_CODE_REGION SYS_CODE_BASE                                               
+{
+    SYS_CODE SYS_CODE_BASE
+    {
+        *.o(START_VECT, +First)
+        *.o(START_CODE)
+	*(+RO)
+    }
+    
+    ScatterAssert(ImageLimit(SYS_CODE) < (SYS_CODE_BASE + SYS_CODE_SIZE))
+
+    
+    MODULE_INFO 0x21000000
+    {
+       
+    }    
+}
+
+LOAD_DATA_REGION SYS_DATA_BASE                                               
+{
+    AP_MAIN_STACK (SYS_DATA_BASE)
+    {        
+	 *.o(vect, +First)
+         *(APMainStack)	    
+    }
+    
+    SYS_DATA (ImageLimit(AP_MAIN_STACK))
+    {         
+        *(+RW)
+        *(+ZI)
+    } 
+
+    ScatterAssert(ImageLimit(SYS_DATA) < (SYS_DATA_BASE + SYS_DATA_SIZE))
+
+   
+}
+
+LOAD_HRAM_CODE_REGION HRAM_CODE_BASE
+{
+	
+	BB_SYS_CODE(HRAM_CODE_BASE)	
+	{
+	    
+	     *(BBSysCode)
+	    
+	}
+	
+	ScatterAssert(ImageLimit(BB_SYS_CODE) < (HRAM_CODE_BASE + HRAM_CODE_SIZE))  
+}
+
+
+LOAD_BBSYS_DATA_REGION HRAM_DATA_BASE
+{
+	
+	BB_SYS_DATA (HRAM_DATA_BASE)
+	{        
+            
+	    *(BBSysData)
+	    *(BBSysBss)  
+	  
+	}	
+
+        ScatterAssert(ImageLimit(BB_SYS_DATA) < (HRAM_DATA_BASE + HRAM_DATA_SIZE))
+}
+
+;*******************************************************************************

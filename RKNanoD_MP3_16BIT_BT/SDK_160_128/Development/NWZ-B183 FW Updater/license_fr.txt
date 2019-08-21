@@ -1,0 +1,37 @@
+---------
+
+AVANT D'UTILISER CE LOGICIEL, VEUILLEZ LIRE SOIGNEUSEMENT L'ACCORD SUIVANT : L'UTILISATION DE CE LOGICIEL INDIQUE QUE VOUS ACCEPTEZ CET ACCORD
+
+LICENCE DU LOGICIEL SONY
+Le LOGICIEL SONY est protégé par des lois relatives à la propriété intellectuelle et par des dispositions de traités internationaux relatifs à la propriété intellectuelle. Le LOGICIEL SONY ne vous pas été vendu, seule une licence d'utilisation vous a été concédée.
+
+OCTROI DE LICENCE. 
+Cette Licence vous accorde les droits suivants :
+Logiciel. Vous pouvez installer et utiliser une copie du LOGICIEL SONY sur un seul ordinateur.
+Stockage/Utilisation en réseau Vous n'avez pas le droit d'utiliser le LOGICIEL SONY sur un réseau interne ni de distribuer le LOGICIEL SONY sur d'autres ordinateurs sur un réseau interne.
+
+DESCRIPTION DES EXIGENCES, RESTRICTIONS, DROITS ET LIMITATIONS
+Limitations sur l'analyse rétrotechnique, la décompilation et le désassemblage. Vous n'avez pas le droit de modifier, de procéder à une analyse rétrotechnique, de décompiler ou de désassembler le LOGICIEL SONY en tout ou partie. Séparation des composants. La licence du LOGICIEL SONY porte sur le logiciel dans son intégralité. Vous ne pouvez pas en séparer les composants pour les utiliser sur plusieurs ordinateurs.
+Un seul ORDINATEUR. Le LOGICIEL SONY ne peut être utilisé que sur un seul ORDINATEUR.
+Location. Il est interdit de louer ou de vendre à crédit le LOGICIEL SONY. 
+Transfert du logiciel. Vous avez le droit de céder tous vos droits afférents à cette Convention uniquement dans le cadre d'une vente ou d'un transfert du LOGICIEL SONY, à condition que vous n'en conserviez aucune copie, que vous cédiez l'intégralité du LOGICIEL SONY (y compris toutes les copies, tous les composants, tous les supports et toutes les versions et mises à niveau du LOGICIEL SONY ainsi que cette Convention) et que le cessionnaire accepte les modalités de cette Convention.
+Résiliation. Sans préjudice de tout autre droit indiqué, SONY peut mettre fin à cette Convention, si vous n'en respectez pas les clauses et les conditions. Dans ce cas, vous devez impérativement détruire toutes les copies du LOGICIEL SONY et tous ses composants.
+Confidentialité. Vous acceptez de garder strictement confidentielles les informations contenues dans le LOGICIEL SONY qui ne sont pas du domaine public et de ne pas divulguer ces informations sans le consentement écrit préalable de SONY. 
+
+DROITS D'AUTEUR.
+L'ensemble des droits d'auteurs et autres droits de propriété intellectuelle associés au LOGICIEL SONY (y compris, mais sans s'y limiter, les images, les photographies, l'animation, la vidéo, l'audio, la musique, le texte et les " applets " incorporés dans le LOGICIEL SONY) ainsi que toutes les copies du LOGICIEL SONY sont la propriété exclusive de SONY ou de ses fournisseurs. Tous les droits non spécifiquement accordés sous cette Convention sont réservés par SONY.
+
+EXCLUSION DE GARANTIE DU LOGICIEL SONY
+Vous reconnaissez expressément et acceptez que l'utilisation du LOGICIEL SONY s'effectue à vos seuls risques. Le LOGICIEL SONY vous est fourni " EN L'ÉTAT " et sans garantie d'aucune sorte, et SONY et les concédants de SONY (dans la suite du présent document, SONY et SES concédants sont collectivement appelés " SONY ") EXCLUENT EXPRESSÉMENT TOUTES GARANTIES QU'ELLES SOIENT EXPRESSES OU IMPLICITES, Y COMPRIS MAIS SANS S'Y LIMITER, LES GARANTIES IMPLICITES SUR LA VALEUR COMMERCIALE DE CE PRODUIT ET SUR SON ADAPTATION À UN USAGE PARTICULIER. SONY NE GARANTIT PAS QUE LES FONCTIONS DU LOGICIEL SONY SATISFERONT VOS EXIGENCES, NI QUE LE FONCTIONNEMENT DU LOGICIEL SONY SERA CORRIGÉ. PAR AILLEURS, SONY N'ÉMET AUCUNE GARANTIE OU DÉCLARATION CONCERNANT L'UTILISATION OU LES CONSÉQUENCES DE L'UTILISATION DU LOGICIEL SONY EN TERMES DE CORRECTION, DE PRÉCISION, DE FIABILITÉE OU AUTRE. AUCUN RENSEIGNEMENT VERBAL OU ÉCRIT NI AUCUN CONSEIL DONNÉ PAR SONY OU PAR UN REPRÉSENTANT AGRÉÉ DE SONY NE CONSTITUENT UNE GARANTIE ET N'ÉTENDENT D'UNE FAÇON QUELCONQUE LA PORTÉE DE CETTE GARANTIE. SI LE LOGICIEL SONY S'AVÈRE DÉFECTUEUX, VOUS (ET NON SONY NI UN REPRÉSENTANT AGRÉÉ SONY) DEVEZ EN ASSUMER L'INTÉGRALITÉ DES COÛTS POUR LE SERVICE, LA RÉPARATION OU LA CORRECTION REQUIS. CERTAINES JURIDICTIONS N'ADMETTENT PAS DE LIMITATIONS SUR LA DURÉE D'UNE GARANTIE IMPLICITE. IL EST DONC POSSIBLE QUE CES RESTRICTIONS NE S'APPLIQUENT PAS DANS VOTRE CAS. LIMITATION DES RESPONSABILITÉS
+SONY ET SES CONCÉDANTS CI-APRÈS DÉSIGNÉS SOUS LE NOM DE " SONY " NE PEUVENT ÊTRE TENUS RESPONSABLES DES DOMMAGES DIRECTS OU INDIRECTS QUE LE MOTIF INVOQUÉ SOIT L'INFRACTION AUX OBLIGATIONS DE GARANTIE, L'INFRACTION AUX OBLIGATIONS DU CONTRAT, LA NÉGLIGENCE, LA STRICTE RESPONSABILITÉ OU TOUTE AUTRE THÉORIE JURIDIQUE ASSOCIÉE À CE PRODUIT. DE TELS DOMMAGES COMPRENNENT DE FAÇON NON EXHAUSTIVE, LA PERTE DE PROFITS, LA PERTE DE REVENU, LA PERTE DE DONNÉES, LA PERTE DE L'UTILISATION DU PRODUIT OU DE TOUT ÉQUIPEMENT ASSOCIÉ, MÊME SI SONY A ÉTÉ AVERTI DE LA POSSIBILITÉ DESDITS DOMMAGES. EN TOUT ÉTAT DE CAUSE, LA RESPONSABILITÉ DE SONY AUX TERMES DE CETTE CONVENTION EST LIMITÉE AU MONTANT RÉELLEMENT PAYÉ PAR L'UTILISATEUR POUR LE DROIT D'UTILISATION DU LOGICIEL SONY. CERTAINES JURIDICTIONS N'AUTORISENT PAS L'EXCLUSION OU LA LIMITATION DE RESPONSABILITÉ POUR DES DOMMAGES CONSÉQUENTIELS ET ACCIDENTELS, DE SORTE QUE CETTE EXCLUSION OU CETTE LIMITATION PEUT NE PAS VOUS CONCERNER.
+PROTECTION CONTRE LA COPIE
+Vous acceptez de respecter l'ensemble de la législation applicable en matière de droits d'auteurs lorsque vous utilisez les appareils de musique numériques Sony et/ou le LOGICIEL SONY. En plus des modalités contenues dans cette Convention, Sony se réserve la possibilité de prendre des mesures appropriées pour protéger les droits d'auteurs couvrant le contenu du LOGICIEL SONY. 
+
+MODALITÉS GÉNÉRALES
+Si une clause de cette Convention venait à être déclarée nulle ou inexécutable, le reste de la Convention resterait valide dans toute la limite autorisée par la loi. La version anglaise de cette Convention est la version devant être utilisée pour l'interprétation de cette Convention.
+
+LOI RÉGISSANTE
+Cette Convention est régie par le droit japonais.
+
+Pour toute question relative à cette Convention ou cette garantie limitée, vous pouvez contacter SONY en écrivant à SONY aux adresses figurant sur le bon de garantie.
+

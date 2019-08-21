@@ -1,0 +1,39 @@
+---------
+
+LEGGERE ATTENTAMENTE IL SEGUENTE CONTRATTO DI LICENZA PRIMA DI UTILIZZARE QUESTO SOFTWARE. L'UTILIZZO DI QUESTO SOFTWARE IMPLICA L'ACCETTAZIONE DEL PRESENTE CONTRATTO
+
+LICENZA RELATIVA AL SOFTWARE SONY
+Il SOFTWARE SONY è protetto dalle leggi e dai trattati internazionali sul copyright vigenti, nonché da altre leggi e altri trattati sulla proprietà intellettuale.  Il SOFTWARE SONY viene concesso in licenza e non venduto.
+
+CONCESSIONI CONTENUTE NELLA PRESENTE LICENZA. 
+La presente licenza concede i seguenti diritti:
+Software.  È consentito installare e utilizzare una copia del SOFTWARE SONY su un solo computer.
+Archiviazione/Utilizzo in rete. Non è consentito utilizzare il SOFTWARE SONY all'interno di una rete interna oppure distribuirlo ad altri computer collegati in rete.
+
+DESCRIZIONE DEI REQUISITI, RESTRIZIONI, DIRITTI E LIMITAZIONI
+Limitazione relativa all'ingegneria inversa, alla decompilazione e al disassemblaggio del software. Non è in alcun modo consentito modificare, deingegnerizzare, decompilare o disassemblare interamente o in parte il SOFTWARE SONY. Separazione dei componenti. Il SOFTWARE SONY viene concesso in licenza come prodotto singolo.  Non è consentito separare i singoli componenti per utilizzarli su più di un computer.
+COMPUTER individuale. È consentito utilizzare il SOFTWARE SONY solo su un unico COMPUTER.
+Noleggio. Non è in alcun modo consentito noleggiare il SOFTWARE SONY o cederlo in leasing. 
+Cessione del software. È consentito cedere in modo permanente tutti i diritti concessi dal presente contratto di licenza solo come parte derivante dalla vendita o dalla cessione del SOFTWARE SONY, a patto che non se ne trattengano copie, si cedano tutti i componenti del SOFTWARE SONY (comprese tutte le copie, i singoli componenti, i supporti, tutte le versioni e qualsiasi upgrade del SOFTWARE SONY, nonché il presente contratto di licenza) e a patto che il destinatario accetti i termini contenuti nel presente contratto .
+Rescissione. Qualora non vengano rispettati i termini e le condizioni riportati nel presente contratto, SONY ha la facoltà di rescindere lo stesso senza ledere alcun altro diritto. In tal caso, l'utente dovrà distruggere tutte le copie del SOFTWARE SONY, unitamente a ciascun singolo componente.
+Riservatezza. L'utente accetta di mantenere strettamente riservate tutte le informazioni contenute nel SOFTWARE SONY che non siano pubblicamente conosciute e di non rivelare ad altri tali informazioni senza previo consenso scritto da parte di SONY.  
+
+COPYRIGHT
+Qualsivoglia diritto di proprietà e copyright contenuto nel SOFTWARE SONY e ad esso associato (inclusi a titolo di esempio non esaustivo immagini, fotografie, animazioni, video, audio, musica, testo e "applet", incorporati nel SOFTWARE SONY), nonché qualsiasi copia del SOFTWARE SONY sono di proprietà esclusiva di SONY o dei suoi fornitori.  SONY si riserva tutti i diritti non specificamente concessi nel presente contratto di licenza.
+
+ESCLUSIONE DELLA GARANZIA RELATIVA AL SOFTWARE SONY
+L'utente riconosce e accetta espressamente che l'utilizzo del SOFTWARE SONY è a suo solo rischio. Il SOFTWARE SONY viene fornito "COM'È", senza alcun tipo di garanzia; SONY e i suoi licenziatari (da qui in avanti denominati "SONY") DISCONOSCONO ESPRESSAMENTE QUALSIVOGLIA GARANZIA, ESPLICITA O IMPLICITA, COMPRESA, MA NON LIMITATA A GARANZIE IMPLICITE DI COMMERCIABILITÀ E DI IDONEITÀ PER UN FINE SPECIFICO. SONY NON GARANTISCE CHE LE FUNZIONALITÀ CONTENUTE NEL SOFTWARE SONY SODDISFINO DETERMINATI REQUISITI O CHE IL FUNZIONAMENTO DEL SOFTWARE VENGA CORRETTO. INOLTRE, SONY NON GARANTISCE O NON FA ALCUNA DICHIARAZIONE IN MERITO ALL'IMPIEGO O AI RISULTATI DERIVANTI DA TALE UTILIZZO DEL SOFTWARE IN TERMINI DI CORRETTEZZA, PRECISIONE, AFFIDABILITÀ O ALTRO. NESSUNA INFORMAZIONE O PARERE ORALE O SCRITTO, ESPRESSO DA SONY O DA UN SUO RAPPRESENTANTE AUTORIZZATO COSTITUISCE UNA GARANZIA O CONTRIBUISCE IN QUALCHE MODO AD ESTENDERE L'AMBITO DI APPLICAZIONE DELLA PRESENTE GARANZIA. QUALORA IL SOFTWARE SONY SI RIVELI DIFETTOSO, EVENTUALI INTERVENTI DI MANUTENZIONE, RIPARAZIONE O CORREZIONE SONO DA INTENDERSI INTERAMENTE A CARICO DELL'UTENTE (NON A CARICO DI SONY O DI UN SUO RAPPRESENTANTE AUTORIZZATO). ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE DI DETERMINATE GARANZIE, PER CUI ALCUNE DELLE ESCLUSIONI SOPRA INDICATE POTRANNO NON ESSERE APPLICABILI AL CASO SPECIFICO. 
+LIMITI DI RESPONSABILITÀ
+DA QUI IN AVANTI, IL TERMINE "SONY" VIENE UTILIZZATO PER FARE RIFERIMENTO A SONY E AL RELATIVO LICENZIATARIO. SONY NON È DA RITENERSI IN ALCUN MODO RESPONSABILE PER EVENTUALI DANNI INCIDENTALI O CONSEQUENZIALI DERIVANTI DALLA VIOLAZIONE DI QUALSIASI CONTRATTO, NEGLIGENZA, MERA RESPONSABILITÀ O QUALSIASI ALTRA TEORIA GIURIDICA RELATIVA A TALE PRODOTTO. TALI DANNI COMPRENDONO MA NON SI LIMITANO A PERDITE DI PROFITTO, PERDITE DI FATTURATO, PERDITE DI DATI, PERDITE  DI UTILIZZO DEL PRODOTTO O DI EVENTUALI APPARECCHIATURE AD ESSO ASSOCIATE, FERMO MACCHINA E TEMPO DELL'UTENTE, ANCHE SE SONY SIA STATA AVVISATA DELLA POSSIBILITÀ DI TALI DANNI. IN QUALUNQUE CASO, LA SOLA RESPONSABILITÀ DI SONY ESPRESSA NEI TERMINI DEL PRESENTE CONTRATTO DI LICENZA SI LIMITA ALL'IMPORTO EFFETTIVAMENTE CORRISPOSTO ATTRIBUIBILE AL SOFTWARE SONY ASSOCIATO. ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE O LA LIMITAZIONE DEI DANNI CONSEQUENZIALI O INCIDENTALI E PERTANTO TALE ESCLUSIONE O LIMITAZIONE PUÒ NON APPLICARSI NEL CASO SPECIFICO.
+PROTEZIONE DELLE COPIE
+L'utente accetta di attenersi alle leggi relative alla protezione del copyright in relazione all'utilizzo delle apparecchiature digitali musicali SONY e/o SOFTWARE SONY.  Oltre ai termini riportati nel presente contratto di licenza, Sony può intraprendere altre misure atte a tutelare il copyright dei contenuti riprodotti dal SOFTWARE SONY.  
+
+DISPOSIZIONI GENERALI
+Se una qualsiasi parte del presente contratto di licenza è ritenuta non valida o inapplicabile, le altre parti saranno tuttavia da ritenersi valide per quanto permesso dalle leggi vigenti.  Per l'interpretazione del presente contratto di licenza, farà fede la versione in lingua inglese.
+
+LEGGI APPLICABILI
+Il presente contratto di licenza è regolato dalla legislazione giapponese.
+
+Nel caso in cui si desideri rivolgere domande relative al presente contratto di licenza o alla presente garanzia limitata, è possibile contattare il centro di assistenza SONY all'indirizzo riportato sul certificato di garanzia.
+
+

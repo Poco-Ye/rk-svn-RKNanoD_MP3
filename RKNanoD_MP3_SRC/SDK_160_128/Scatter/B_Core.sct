@@ -1,0 +1,62 @@
+#! armcc -E --device DLM
+;
+;*******************************************************************************
+;                   Copyright (c) 2008,ZhengYongzhi
+;                         All rights reserved.
+;
+; File Name:   CortexM3.sct
+;
+; Description:
+;
+; History:      <author>          <time>        <version>
+;             ZhengYongzhi      2008-8-13          1.0
+;    desc:    ORG.
+;*******************************************************************************
+;
+
+#define HRAM_CODE_BASE      0x00000000
+#define HRAM_CODE_SIZE      0x00020000
+
+#define HRAM_DATA_BASE      0x01020000
+#define HRAM_DATA_SIZE      0x00030000
+
+
+LOAD_HRAM_CODE_REGION HRAM_CODE_BASE
+{
+
+        BB_SYS_CODE(HRAM_CODE_BASE)
+        {
+             *.o(BB_START_VECT, +First)
+             *.o(BB_START_CODE)
+
+             *(BBSysCode)
+             *(+RO)
+
+        }
+        BB_SYS_CODE_END (ImageLimit(BB_SYS_CODE)) OVERLAY {}
+
+        ScatterAssert(ImageLimit(BB_SYS_CODE) < (HRAM_CODE_BASE + HRAM_CODE_SIZE))
+}
+
+
+LOAD_BBSYS_DATA_REGION HRAM_DATA_BASE
+{
+        BB_MAIN_STACK (HRAM_DATA_BASE)
+        {
+            *.o(chip_freq2, +First)
+            *(BBMainStack)
+        }
+
+        BB_SYS_DATA (HRAM_DATA_BASE + 0x2000)
+        {
+            *.o(bb_vect, +First)
+            *(BBSysData)
+            *(+RW)
+            *(+ZI)
+        }
+        BB_SYS_DATA_END (ImageLimit(BB_SYS_DATA)) OVERLAY {}
+
+        ScatterAssert(ImageLimit(BB_SYS_DATA) < (HRAM_DATA_BASE + HRAM_DATA_SIZE))
+}
+
+;*******************************************************************************

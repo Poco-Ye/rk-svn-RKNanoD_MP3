@@ -1,0 +1,36 @@
+---------
+
+SONY-SOFTWARELIZENZ
+Die SONY-SOFTWARE ist durch das geltende Urheberrecht, internationale Copyright-Vereinbarungen und weitere Gesetze und Abkommen zum Schutze geistigen Eigentums geschützt. Die SONY-SOFTWARE wird nicht verkauft, sondern lizenziert.
+
+LIZENZERTEILUNG 
+Diese Lizenz gewährt Ihnen folgende Rechte:
+Software: Sie sind berechtigt, eine Kopie der SONY-SOFTWARE auf einem einzelnen Computer zu installieren und zu nutzen.
+Speicherung/Netzwerknutzung: Sie sind nicht berechtigt, die SONY-SOFTWARE über ein internes Netzwerk zu nutzen oder über ein internes Netzwerk an andere Computer verteilen.
+
+BESCHREIBUNG DER ANFORDERUNGEN, BESCHRÄNKUNGEN, RECHTE UND EINSCHRÄNKUNGEN
+Einschränkung bezüglich Reverse Engineering, Dekompilierung und Disassemblierung: Sie dürfen die SONY-SOFTWARE weder ganz noch teilweise ändern, zurückentwickeln (Reverse Engineering), dekompilieren oder disassemblieren. Trennung von Komponenten: Die SONY-SOFTWARE wird als einheitliches Produkt lizenziert. Es ist nicht gestattet, die Komponenten zur Benutzung auf mehreren Computern voneinander zu trennen.
+Einzelner COMPUTER: Die SONY-SOFTWARE darf nur auf einem einzelnen Rechner genutzt werden.
+Vermietung: Sie sind nicht berechtigt, die SONY-SOFTWARE zu vermieten oder zu verleasen. 
+Software-Transfer: Nur im Rahmen eines Verkaufs oder einer Weitergabe der SONY-SOFTWARE sind Sie berechtigt, die aus dieser EULA resultierenden Rechte in ihrer Gesamtheit und dauerhaft zu übertragen; unter der Bedingung, dass Sie keine Kopien zurückbehalten, die gesamte SONY-SOFTWARE (einschließlich aller Kopien, Komponenten, Datenträger, Versionen und Updates der SONY-SOFTWARE und dieser EULA) weitergeben und dass der Empfänger den Bedingungen dieser EULA zustimmt.
+Beendigung: Unbeschadet sonstiger Rechte ist SONY berechtigt, diese Vereinbarung zu kündigen, sofern Sie gegen die darin enthaltenen Bestimmungen und Bedingungen verstoßen. In diesem Fall sind sie verpflichtet, sämtliche Kopien und Komponenten der SONY-SOFTWARE zu vernichten.
+Vertraulichkeit: Sie erklären sich bereit, alle in der SONY-SOFTWARE enthaltenen Informationen, die nicht öffentlich bekannt sind, vertraulich zu behandeln und ohne vorherige schriftliche Zustimmung von SONY keinem Dritten zugänglich zu machen. 
+
+COPYRIGHT
+Sämtliche Titel und Urheberrechte in und an der SONY-SOFTWARE (einschließlich, jedoch nicht beschränkt auf alle in die SONY-SOFTWARE enthaltenen Bilder, Fotos, Animationen, Videos, Audiomaterialien, Musikstücke, Texte und Applets) sind Eigentum von SONY oder seinen Zulieferern. SONY behält sich alle Rechte vor, die nicht ausdrücklich gemäß dieser EULA gewährt werden.
+
+GARANTIEAUSSCHLUSS FÜR SONY-SOFTWARE
+Sie anerkennen und stimmen ausdrücklich zu, dass Sie die SONY-SOFTWARE auf eigene Gefahr anwenden. Die SONY-SOFTWARE wird im vorliegenden Zustand ohne Mängelgewähr ("AS IS") und Gewährleistung zur Verfügung gestellt; und SONY sowie die Lizenzgeber von SONY (im Folgenden: "SONY") LEHNEN ALLE AUSDRÜCKLICHEN ODER KONKLUDENTEN GARANTIEN AB, EINSCHLIESSLICH JEDOCH NICHT BESCHRÄNKT AUF DIE KONKLUDENTEN GARANTIEN DER HANDELSFÄHIGKEIT UND EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. SONY GARANTIERT NICHT, DASS DIE FUNKTIONEN DER SONY-SOFTWARE IHREN ERFORDERNISSEN ENTSPRECHEN ODER DASS FEHLER IN DER SONY-SOFTWARE BERICHTIGT WERDEN. AUSSERDEM GIBT SONY KEINE GARANTIEN ODER ZUSICHERUNGEN HINSICHTICH DER KORREKTHEIT, GENAUIGKEIT ODER VERLÄSSLICHKEIT DER ANWENDUNG ODER DER ERGEBNISSE DER ANWENDUNG DER SONY-SOFTWARE NOCH IN SONSTIGER HINSICHT. MÜNDLICH ODER SCHRIFTLICH VON SONY ODER EINEM ERMÄCHTIGTEN VERTRETER VON SONY GEGEBENE INFORMATIONEN ODER RATSCHLÄGE STELLEN KEINE GARANTIE DAR UND KÖNNEN IN KEINER WEISE DEN UMFANG DIESER GARANTIE ERWEITERN. SOLLTE SICH DIE SONY-SOFTWARE ALS DEFEKT ERWEISEN, ÜBERNEHMEN SIE (UND NICHT SONY ODER EIN ERMÄCHTIGTER VERTRETER VON SONY) SÄMTLICHE KOSTEN FÜR ALLE ERFORDERLICHEN WARTUNGS-, REPARATUR- ODER KORREKTURARBEITEN. SOWEIT DER AUSSCHLUSS KONKLUDENTER GARANTIEN GESETZLICH NICHT ZULÄSSIG IST, GELTEN DIE ALLGEMEINEN RECHTLICHEN BESTIMMUNGEN. 
+HAFTUNGSBESCHRÄNKUNG
+SONY UND DIE LIZENZGEBER VON SONY (IM FOLGENDEN: "SONY") HAFTEN NICHT FÜR FOLGE- ODER ZUFÄLLIG ENTSTANDENE SCHÄDEN DURCH VERLETZUNG EINER AUSDRÜCKLICHEN ODER KONKLUDENTEN GARANTIE, VERTRAGSBRUCH, NACHLÄSSIGKEIT, ERFOLGSHAFTUNG ODER IRGENDEINE ANDERE GESETZLICHE THEORIE BEZÜGLICH DIESES PRODUKTES. DERARTIGE SCHÄDEN BEINHALTEN, SIND ABER NICHT DARAUF BESCHRÄNKT, ENTGANGENEN GEWINN, EINNAHMEVERLUST, DATENVERLUST, VERLUST DES NUTZENS DES PRODUKTS ODER DER DAZUGEHÖRIGEN AUSRÜSTUNG, AUSFALLZEIT UND ANWENDERZEIT, SELBST WENN SONY AUF DIE MÖGLICHKEIT SOLCHER SCHÄDEN AUFMERKSAM GEMACHT WURDE. IN KEINEM FALLE ÜBERSTEIGT DIE GESAMTHAFTUNG VON SONY GEMÄSS ALLEN BESTIMMUNGEN DIESER EULA DEN ANRECHENBAR FÜR DIE SONY-SOFTWARE TATSÄCHLICH BEZAHLTEN PREIS. SOWEIT DER AUSSCHLUSS ODER DIE EINSCHRÄNKUNG VON FOLGE- ODER NEBENSCHÄDEN GESETZLICH NICHT ZULÄSSIG IST, GELTEN DIE ALLGEMEINEN RECHTLICHEN BESTIMMUNGEN.
+KOPIERSCHUTZ
+Sie erklären sich bereit, im Zusammenhang mit der Nutzung der SONY-SOFTWARE und der digitalen SONY-Musikanlagen alle urheberrechtlichen Bestimmungen einzuhalten. Neben den in dieser EULA genannten Bedingungen kann Sony geeignete Maßnahmen treffen, um den Schutz des Urheberrechts der mit der SONY-SOFTWARE wiedergegebenen Inhalte zu gewährleisten. 
+
+ALLGEMEINE BESTIMMUNGEN
+Sollte sich ein Teil dieser EULA als ungültig oder nicht vollstreckbar erweisen, bleiben die anderen Teile gültig, soweit gesetzlich zulässig. Bei der Interpretation oder Auslegung dieser EULA ist die englische Version zugrunde zu legen.
+
+MASSGEBENDES RECHT
+Diese EULA unterliegt japanischem Recht.
+
+Sollten Sie Fragen bezüglich dieser EULA oder dieser beschränkten Garantie haben, können Sie sich unter der in der Garantiekarte angegebenen Adresse schriftlich mit SONY in Verbindung setzen.
+

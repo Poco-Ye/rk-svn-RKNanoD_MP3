@@ -1,0 +1,12 @@
+https://ja.wikipedia.org/wiki/Libavcodec
+FLAC decode
+https://libav.org/download/
+https://libav.org/
+
+Libav is free software licensed under the LGPL or GPL depending on your choice of configuration options. If you use Libav or its constituent libraries, you must adhere to the terms of the license in question. You can find basic compliance information and get licensing help on our license and legal considerations page. 
+
+https://libav.org/legal/
+
+Libav License
+
+Libav is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. However, Libav incorporates several optional parts and optimizations that are covered by the GNU General Public License (GPL) version 2 or later. If those parts get used the GPL applies to all of Libav. 

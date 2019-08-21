@@ -1,0 +1,24 @@
+#! armcc -E --device DLM
+;
+;*******************************************************************************
+;                   Copyright (c) 2008,ZhengYongzhi
+;                         All rights reserved.
+;
+; File Name£º   CortexM3.sct
+; 
+; Description:  
+;
+; History:      <author>          <time>        <version>       
+;             ZhengYongzhi      2008-8-13          1.0
+;    desc:    ORG.
+;*******************************************************************************
+;
+#include "..\SysConfig.h"
+
+#ifdef _JTAG_DEBUG_
+    #include "Debug.sct"
+#else
+    #include "BuildAll.sct"
+#endif
+
+;*******************************************************************************

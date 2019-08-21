@@ -1,0 +1,43 @@
+http://blog.csdn.net/u012931018/article/details/16927583 
+原理见以上链接
+使用说明：
+   
+    使用噪声抑制算法（NS）,
+    
+    
+    1）首先
+     #include "NS_interface.h"
+     
+     
+     
+    2）接下来，调用初始化函数
+       
+       
+       int NS_init(int pre_len,unsigned int sample_rate);  
+       //初始化FFT及NS状态信息, pre_len为NS单次处理的长度（main.c中的process_num_once控制，赋值给NN），pre_len由采样率决定,   即不得小于10ms。Np值是用来开辟memory内存，Np必须大于等于pre_len
+       
+   
+    3）最后，调用 NS处理函数
+    
+    
+     int NS_do(short *mic_buf,int  buffe_len)  
+     //参数为要处理的数据buffer，buffer_len为NN的整数倍，且为单双声道的总样本数。
+     
+     
+ 3、算法修改
+    1）修改采样率    arch.h  的 sampling_rate。同时Np 需修改为该采样率对应的16ms或者20ms
+                    如 8000hz 的16ms为 8000/1000*16 = 128
+                       44100hz的16ms为 44100/1000*16 = 705
+                    注意：增大NN,噪声抑制算法 的data size 会跟着增大，因为代码中的buffer均已Np为基准设置的
+    2）修改噪声抑制的程度（根据测试结果决定抑制程度） 
+              NS_preprocess.c     的三个值
+              #define NOISE_SUPPRESS_DEFAULT       -60//-15
+              #define ECHO_SUPPRESS_DEFAULT        -40//-40
+              #define ECHO_SUPPRESS_ACTIVE_DEFAULT -15//-15   
+    3）若需要VAD检测
+              开启 VAD_to_NS 宏。但慎重使用，因为开启后声音会很假，因为若为静音，值全设为0，正确做法
+              应该是加入舒适噪声（参考webrtc SNG 舒适噪音生成算法）
+              另外设置以下两个值。值1表示语音不连续时判断是否为语音帧的阈值，值2为连续语音帧时的阈值。
+              #define SPEECH_PROB_START_DEFAULT       QCONST16(0.9f,15)//QCONST16(0.35f,15)
+              #define SPEECH_PROB_CONTINUE_DEFAULT    QCONST16(0.6f,15)//QCONST16(0.20f,15)      
+     
