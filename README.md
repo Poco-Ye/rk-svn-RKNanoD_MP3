@@ -3,6 +3,10 @@ RKNanoD_MP3_24BIT
 
 SDK发布代码
 
+RKNanoD_MP3_SRC
+
+SDK源码
+
 RKNanoD_MP3_16BIT_BT
 
 SONY发布代码
@@ -11,7 +15,5 @@ RKNanoD_MP3_SONY
 
 SONY源码
 
-RKNanoD_MP3_SRC
 
-SDK源码
 
