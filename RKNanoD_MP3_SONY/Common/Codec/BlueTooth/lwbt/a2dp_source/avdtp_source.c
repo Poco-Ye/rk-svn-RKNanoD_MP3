@@ -63,7 +63,7 @@ extern SYSTICK_LIST AvdtpCheckStateTimer;
 extern SYSTICK_LIST AvdtpDiscoverTimer;
 extern SYSTICK_LIST AvdtpMediaSetUpTimer;
 extern SYSTICK_LIST AvdtpGetGapabilitiesTimer;
-//A2DP v1.2��Ӧavdtp �汾v1.0
+//A2DP v1.2¶ÔÓ¦avdtp °æ±¾v1.0
 _ATTR_LWBT_DATA_ static uint8 a2dp_service_record[] =
 {
     0x35, 0x8,
@@ -391,7 +391,8 @@ static int avdtp_check_config_info(struct l2cap_pcb *l2_pcb, struct a2dp_pcb *pc
         //printf("Remotecodec.Channel_Mode = %d\n",Remotecodec.Channel_Mode);
         //printf("Localcodec.Channel_Mode = %d\n",pcb->Localcodec[acp_id].Channel_Mode);
         error = AVDTP_BAD_CP_FORMAT;
-        goto err;
+        goto err;
+
     }
 
     if((Remotecodec.Block_Length & pcb->Localcodec[acp_id].Block_Length) == NULL)
@@ -419,7 +420,8 @@ static int avdtp_check_config_info(struct l2cap_pcb *l2_pcb, struct a2dp_pcb *pc
     }
     pcb->local_sep[acp_id].InUse = AVDTP_SEPID_INUSE;
     a2dp_pcbs->select_seid = acp_id+1;
-    return 0;
+    return 0;
+
 
 err:
 
@@ -671,7 +673,8 @@ static avdtp_reject_rsp(struct l2cap_pcb *pcb,struct avdtp_single_header *header
     }
     ret = l2ca_datawrite(pcb, rsp_pbuf);
     pbuf_free(rsp_pbuf);
-    return ret;    
+    return ret;    
+
 }
 
 
@@ -2638,14 +2641,14 @@ int avdtp_send_media(char * buf, int len, int frameCnt, void (*func)(void))
         pbuf_header(p,13);
 
         ((uint8 *)p->payload)[0] = 0x80;
-        ((uint8 *)p->payload)[1] = 0x00;
+        ((uint8 *)p->payload)[1] = 0x60;
         seqNum = avdtp_next_sequenceNumber();
         ((uint8 *)p->payload)[2] = seqNum >> 8;
         ((uint8 *)p->payload)[3] = seqNum &0x00FF;
         ((uint32 *)p->payload)[1] = 0;
         ((uint32 *)p->payload)[2] = 0;
 
-        ((uint8 *)p->payload)[12] = frameCnt; //sbc ֡����
+        ((uint8 *)p->payload)[12] = frameCnt; //sbc Ö¡¸öÊý
 
 
         ret = _l2ca_datawrite(a2dp_meida_pcbs,p, func);
