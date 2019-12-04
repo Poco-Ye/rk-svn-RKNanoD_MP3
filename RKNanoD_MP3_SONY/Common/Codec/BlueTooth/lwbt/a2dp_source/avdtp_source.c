@@ -256,7 +256,11 @@ static bool avdtp_Save_Remote_Codec_info(struct avdtp_Command_CapMidea_Data *Cap
     pcb->Remotecodec.MaximumBitpoolValue = Cap_Data->MaximumBitpoolValue;
 
     Bitpooltemp = Cap_Data->MaximumBitpoolValue;
-    Bitpooltemp = (Bitpooltemp > 0x35) ? 0x35 : Bitpooltemp;
+    if(Bitpooltemp > 53)
+    a2dp_pcbs->Remotecodec.MaximumBitpoolValue  = 53;
+    else if(Bitpooltemp > 2)
+    a2dp_pcbs->Remotecodec.MaximumBitpoolValue = Bitpooltemp - 2;
+    else  
     a2dp_pcbs->Remotecodec.MaximumBitpoolValue = Bitpooltemp;
 
 
